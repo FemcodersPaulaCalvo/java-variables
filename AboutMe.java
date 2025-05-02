@@ -7,10 +7,10 @@ public class AboutMe {
 
         //Escribe tu código aquí
         String name = "Paula";
-        int age = 23;
+        byte age = 23;
         String country = "Spain";
         String programingLenguage = "Java";
-        int hours = 10;
+        byte hours = 10;
         String[] hobbies = {"Paint", "Music", "Eat"};
         String place = "Mi casa";
 
